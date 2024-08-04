@@ -32,6 +32,9 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
+# GenAIScript
+.genaiscript/
+
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
 
